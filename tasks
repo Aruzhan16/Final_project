@@ -1,0 +1,23 @@
+#Task 1
+sudo adduser new_username
+
+#Task 2
+
+
+
+
+#Task 3
+
+$ sudo apt-get update
+$ sudo apt-get install linux-headers-$(uname -r)
+$ mkdir ~/kernel_module
+$ cd ~/kernel_module
+$ touch Makefile
+$ touch kernel_module.c
+
+$ make
+$ sudo insmod kernel_module.kov
+
+$ lsmod | grep kernel_module
+
+$ sudo rmmod kernel_module
