@@ -19,4 +19,4 @@
 ##### Configure the proxy settings in the web browser or system settings to use the IP address and port of the proxy server.
 
 ### task 3
-##### A Linux kernel module is a compiled binary that is inserted directly into the Linux kernel, running in ring 0, the internal and least secure instruction execution ##### ring in the x86-64 processor. Here the code is executed completely without any checks, but at an incredible speed and with access to any system resources.
+##### A Linux kernel module is a compiled binary that is inserted directly into the Linux kernel, running in ring 0, the internal and least secure instruction execution #####ring in the x86-64 processor. Here the code is executed completely without any checks, but at an incredible speed and with access to any system resources.
